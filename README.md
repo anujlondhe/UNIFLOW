@@ -106,7 +106,7 @@ Through this project, the following skills were strengthened:
 
 # 👨‍💻 Author
 
-## Mayank Joshi
+## Anuj Londhe
 **B.Tech Computer Science Student**
 
 Focused on UI/UX Design, Software Development, and Student-Centric Digital Solutions.
